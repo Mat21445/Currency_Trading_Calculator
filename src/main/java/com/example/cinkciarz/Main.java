@@ -20,7 +20,7 @@ public class Main extends Application {
         stage.setTitle("Currency Trading Calculator");
         stage.setScene(scene);
         //
-        stage.getIcons().add(new Image("D:\\InteliJ_Projects\\Cinkciarz\\src\\main\\resources\\com\\example\\cinkciarz\\money.png")); //this can be commented before build
+        stage.getIcons().add(new Image("com/example/cinkciarz/money.png"));
         stage.show();
     }
 
